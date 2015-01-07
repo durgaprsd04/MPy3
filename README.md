@@ -15,21 +15,26 @@ As you are all are new to git, I will brief the set of instructions and thus it 
 <code>
 git clone reposity_name.
 </code>
+
 After cloning, you have this repository in your folder. Please edit it accordingly and after testing the code, you should do the following steps.
 <code>
 git add *
 </code>
-This will add all the sources that you have to add to your repository. Once you add all this you should commit using.
+This will add all the sources that you have to add to your repository. Once you add all this you should commit using
 <code>git commit  -a 
 </code
+
 This would open a editor window with a message for commit. This should be filled and all the files you commit at that moment will be having the same message as this. This should be clear and should notify what changes have you done to the project. After commit, you need to <code>push</code> the code to the main repository. This could be done using
 <code>
 git push -u origin master
 </code>
+
 After this if you had made a change that is necessary and is not in the main repository. That is the one I have you can send me a pull request and then I will add the change to the code accordingly. These are the sets of instructions you need to follow. For using <code>pull</code> you can type in
 <code>
 git pull
-</code>  inside the repository. If any doubts please go through the git manual available in the link . There are several concepts such as branching that could be used if a multi version development need to be done.
+</code>  
+
+inside the repository. If any doubts please go through the git manual available in the link . There are several concepts such as branching that could be used if a multi version development need to be done.
 
 
 ##List of source files
