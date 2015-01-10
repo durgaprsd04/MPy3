@@ -38,5 +38,5 @@ inside the repository. If any doubts please go through the git manual available 
 
 
 ##List of source files
-As you can see the of source files that are in the folder includes a MP3 cutter using a simple script. I will put in the rest of scripts ported to python. 
+As you can see the of source files that are in the folder includes a MP3 cutter using a simple script. I will put in the rest of scripts ported to python. As of now 09/1 I have added a utility to read MP3 file content. Will merge it to the main reader soon.
 
